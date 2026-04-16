@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>Alimentação</item>
+        <item>Transporte</item>
+        <item>Lazer</item>
+        <item>Saúde</item>
+        <item>Contas</item>
+    </string-array>
+
+    <string-array name="pagamentos">
+        <item>Dinheiro</item>
+        <item>Pix</item>
+        <item>Débito</item>
+        <item>Crédito</item>
+    </string-array>
+</resources>
